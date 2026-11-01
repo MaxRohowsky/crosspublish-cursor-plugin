@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "crosspublish": {
+      "url": "https://crosspublish.com/api/mcp"
+    }
+  }
+}

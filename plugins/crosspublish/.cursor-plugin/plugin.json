@@ -1,0 +1,14 @@
+{
+  "name": "crosspublish",
+  "displayName": "Crosspublish",
+  "version": "1.0.0",
+  "description": "Draft, schedule and publish social media posts, check analytics, and reply to your inbox with Crosspublish.",
+  "author": {
+    "name": "Crosspublish",
+    "email": "contact@crosspublish.com"
+  },
+  "homepage": "https://crosspublish.com/features/mcp",
+  "license": "MIT",
+  "keywords": ["social media", "scheduling", "posts", "marketing", "mcp"],
+  "logo": "assets/logo.svg"
+}
